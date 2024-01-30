@@ -14,4 +14,4 @@
 ## Просмотр результатов
 1. Запускаем excel (чистый лист)
 2. Вкладки 'Data'->'GetData'->'FromFile'->'FromText/CSV'
-
+![Alt text](res/screen.png?raw=true "Пример")
